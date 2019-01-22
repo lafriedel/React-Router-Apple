@@ -1,0 +1,11 @@
+.subnav-wrapper {
+    display: flex;
+    border: 1px solid green;
+    justify-content: space-evenly;
+}
+
+.sublink-wrapper {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid red;
+}
