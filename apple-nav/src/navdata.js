@@ -1,4 +1,4 @@
-export default navData = [{
+const navData = [{
     category: "Mac",
     id: 0,
     subcategories: [
@@ -266,6 +266,8 @@ export default navData = [{
   },
   {
     category: "Support",
-    id: 5
+    id: 6
   }
   ];
+
+  export default navData;
