@@ -2,7 +2,8 @@ import React from 'react';
 import SubNavLink from './SubNavLink';
 
 const SubNav = props => {
-    const item = props.navData.find(item => `${item.id}` === props.match.params.id);
+    console.log("props in SubNav", props);
+    const item = props.navData.find(item => `${item.category.toLowerCase()}` === props.match.params.id);
 
     if (!item) return <div>Item not found.</div>;
 
