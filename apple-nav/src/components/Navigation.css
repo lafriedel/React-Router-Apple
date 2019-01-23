@@ -13,11 +13,11 @@
     text-decoration: none;
   }
 
-  .nav-link a:hover {
+.nav-link a:hover {
       color: lightgrey;
   }
 
-  .nav-link a.active {
+.nav-link a.active {
       color: yellow;
   }
 

@@ -6,7 +6,7 @@ import { NavLink } from 'react-router-dom';
 const Nav = props => {
     return (
         <div className="nav-link">
-            <NavLink to={`${props.navData.category.toLowerCase()}`}>{props.navData.category}</NavLink>
+            <NavLink to={`/${props.navData.category.toLowerCase()}`} >{props.navData.category}</NavLink>
         </div>
     );
 }

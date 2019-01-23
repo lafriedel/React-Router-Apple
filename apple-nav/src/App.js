@@ -29,7 +29,7 @@ class App extends Component {
     return (
       <div className="App">
         <NavWrapper navData={this.state.navData} />
-        <Route path="/:id" render={(props) => <SubNav {...props} navData={this.state.navData} />} />
+        <Route exact path="/:id" render={(props) => <SubNav {...props} navData={this.state.navData} />} />
         <Route path="/:id/:subId" component={SubNavPage} />
  
       </div>
