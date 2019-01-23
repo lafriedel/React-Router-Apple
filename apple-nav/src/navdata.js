@@ -5,52 +5,52 @@ const navData = [{
       {id: 0,
         name: "MacBook",
         detail: null,
-        icon: ""
+        icon: "https://www.apple.com/v/mac/home/ae/images/familybrowser/macbook__fjd32xo0xwmm_large.svg"
       },
       {id: 1,
         name: "MacBook Air",
         detail: "New",
-        icon: ""
+        icon: "https://www.apple.com/v/mac/home/ae/images/familybrowser/macbookair__by1vem70tkc2_large.svg"
       },
       {id: 2,
         name: "MacBook Pro",
         detail: null,
-        icon: ""
+        icon: "https://www.apple.com/v/mac/home/ae/images/familybrowser/macbookpro__e0wcugzmt26a_large.svg"
       },
       {id: 3,
         name: "iMac",
         detail: null,
-        icon: ""
+        icon: "https://www.apple.com/v/mac/home/ae/images/familybrowser/imac__dlz2ciyr6hm6_large.svg"
       },
       {id: 4,
         name: "iMac Pro",
         detail: null,
-        icon: ""
+        icon: "https://www.apple.com/v/mac/home/ae/images/familybrowser/imac_pro__el8kcar06qky_large.svg"
       },
       {id: 5,
         name: "Mac Pro",
         detail: null,
-        icon: ""
+        icon: "https://www.apple.com/v/mac/home/ae/images/familybrowser/macpro__dt69qr0ywncm_large.svg"
       },
       {id: 6,
         name: "Mac mini",
         detail: "New",
-        icon: ""
+        icon: "https://www.apple.com/v/mac/home/ae/images/familybrowser/macmini__rzlk7b0xsmqq_large.svg"
       },
       {id: 7,
         name: "Accessories",
         detail: null,
-        icon: ""
+        icon: "https://www.apple.com/v/mac/home/ae/images/familybrowser/mac_acc__fia3ihqup4ae_large.svg"
       },
       {id: 8,
         name: "Mojave",
         detail: null,
-        icon: ""
+        icon: "https://www.apple.com/v/mac/home/ae/images/familybrowser/mac_osx__dq0x03ehapyu_large.svg"
       },
       {id: 9,
         name: "Compare",
         detail: null,
-        icon: ""
+        icon: "https://www.apple.com//v/mac/home/ae/images/familybrowser/mac_comp__by57zw2zt32a_large.svg"
       }
     ]
   },
@@ -61,47 +61,47 @@ const navData = [{
       {id: 0,
         name: "iPad Pro",
         detail: "New",
-        icon: ""
+        icon: "https://www.apple.com/v/ipad/home/am/images/chapternav/ipadpro_light__fic9xqb4rq62_large.svg"
       },
       {id: 1,
         name: "iPad Pro",
         detail: "10.5\"",
-        icon: ""
+        icon: "https://www.apple.com/v/ipad/home/am/images/chapternav/ipadpro_10_5_light__cdnzsjo3mhsi_large.svg"
       },
       {id: 2,
         name: "iPad",
         detail: "9.7\"",
-        icon: ""
+        icon: "https://www.apple.com/v/ipad/home/am/images/chapternav/ipad_light__fxafu0jcd16q_large.svg"
       },
       {id: 3,
         name: "iPad mini 4",
         detail: null,
-        icon: ""
+        icon: "https://www.apple.com/v/ipad/home/am/images/chapternav/ipadmini_light__br4a8cvnupki_large.svg"
       },
       {id: 4,
         name: "iOS 12",
         detail: null,
-        icon: ""
+        icon: "https://www.apple.com/v/ipad/home/am/images/chapternav/ios_light__gnmyez8xx0a6_large.svg"
       },
       {id: 5,
         name: "Apple Pencil",
         detail: null,
-        icon: ""
+        icon: "https://www.apple.com/v/ipad/home/am/images/chapternav/apple_pencil_light__bz8n8cqdvcia_large.svg"
       },
       {id: 6,
         name: "Smart Keyboard",
         detail: null,
-        icon: ""
+        icon: "https://www.apple.com/v/ipad/home/am/images/chapternav/keyboard_light__f6gmbmwm4i6a_large.svg"
       },
       {id: 7,
         name: "Accessories",
         detail: null,
-        icon: ""
+        icon: "https://www.apple.com/v/ipad/home/am/images/chapternav/ipad_acc_light__f7t99j4r9qem_large.svg"
       },
       {id: 8,
         name: "Compare",
         detail: null,
-        icon: ""
+        icon: "https://www.apple.com/v/ipad/home/am/images/chapternav/ipad_comp_light__btey5qm4uaoi_large.svg"
       }
     ]
   },

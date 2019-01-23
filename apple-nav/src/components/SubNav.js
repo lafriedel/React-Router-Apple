@@ -8,7 +8,10 @@ const SubNav = props => {
 
     return (
         <div className="subnav-wrapper">
-            {item.subcategories.map(subcat => <SubNavLink item={item} subcategory={subcat} key={subcat.id} />)}
+        <div className="subnav-container">
+        {item.subcategories.map(subcat => <SubNavLink item={item} subcategory={subcat} key={subcat.id} />)}
+        </div>
+
         </div>
         );
 }
